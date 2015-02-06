@@ -1,6 +1,6 @@
 {
-    "name": "phive/twig-extensions-deferred",
-    "description": "An extension for Twig that allows to defer block rendering",
+    "name": "dynactivesoftware/twig-extensions-deferred",
+    "description": "Modified from phive/twig-extensions-deferred. An extension for Twig that allows to defer block rendering",
     "keywords": ["twig", "extension", "defer", "lazy"],
     "homepage": "https://github.com/rybakit/twig-extensions-deferred",
     "type": "library",
